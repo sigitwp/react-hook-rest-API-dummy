@@ -1,3 +1,7 @@
+<img width="1280" alt="ScreenShot_ui_react_hook" src="https://user-images.githubusercontent.com/6770027/85507971-61d6df00-b61d-11ea-81e9-c87a7d13f136.png">
+
+![React Hook - Dummy Online Rest API](https://user-images.githubusercontent.com/6770027/85508204-ceea7480-b61d-11ea-985e-c00fe189a91f.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
